@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  spring-boot-rest-api:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-17T23:55:31.961227994Z"
+    description: Spring boot REST API helm chart
+    digest: 7ef08395ca521c0ca2b1c794fff5abaacb2d92bf26c467e6f026e64a66ada16f
+    name: spring-boot-rest-api
+    type: application
+    urls:
+    - https://github.com/timpamungkas/devops-helm-charts/releases/download/spring-boot-rest-api-0.1.0/spring-boot-rest-api-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-17T23:55:31.961233195Z"
